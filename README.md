@@ -1,8 +1,8 @@
 # eseo-sptotify-project
 Ce dépôt Github contient tous le code source produit lors de la réalisation de ce projet. 
-!! Les fichiers csv ne sont pas inclus dans le repository (trop volumineux) !! => il faut télécharger le projet au format .zip via ce lien : https://drive.google.com/file/d/1g_F8YHeOsrREyL2QUhLKT7fyF4nmc4A1/view?usp=sharing
+!! Les fichiers csv ne sont pas inclus dans le repository (trop volumineux) !! => il faut télécharger le projet au format .zip via ce lien : https://drive.google.com/file/d/1qqowG2UCi9ZT_tu92IRK46XYXKD4wW6m/view?usp=sharing
 
-[Projet_analyse_de_donnes_Spotify_JEAN_GUINVARCH.pdf](https://github.com/user-attachments/files/18040408/Projet_analyse_de_donnes_Spotify_JEAN_GUINVARCH.pdf)
+[PROJET_SPOTIFY_GUINVARCH_JEAN_S9_BD.pdf](https://github.com/user-attachments/files/18198652/PROJET_SPOTIFY_GUINVARCH_JEAN_S9_BD.pdf)
 
 Il est organisé en partie logique représentant les différentes étapes de l'etl. L'arborescence ci-jointe illustre la structure du projet : 
 
