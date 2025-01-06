@@ -1,6 +1,6 @@
 # eseo-spotify-project
 Ce dépôt Github contient tous le code source produit lors de la réalisation de ce projet. 
-!! Les fichiers csv ne sont pas inclus dans le repository (trop volumineux) !! => il faut télécharger le projet au format .zip via ce lien : https://drive.google.com/file/d/1qqowG2UCi9ZT_tu92IRK46XYXKD4wW6m/view?usp=sharing
+!! Les fichiers csv ne sont pas inclus dans le repository (trop volumineux) !! => il faut télécharger le projet au format .zip via ce lien : https://drive.google.com/file/d/1ls6EP5GD9qE5Zx0xYB8KhSGdx79GFzMV/view?usp=sharing
 
 [PROJET_SPOTIFY_GUINVARCH_JEAN_S9_BD.pdf](https://github.com/user-attachments/files/18198933/PROJET_SPOTIFY_GUINVARCH_JEAN_S9_BD.pdf)
 
