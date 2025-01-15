@@ -10,7 +10,8 @@ Il est organisé en partie logique représentant les différentes étapes de l'e
 ![image](https://github.com/user-attachments/assets/184e4b21-8708-45f3-a23f-c8d6b3ea0d57)
 
 Par ailleurs, il respecte le workflow data suivant : 
-![workflow_data](https://github.com/user-attachments/assets/cabbfaab-b542-445a-a2ca-5ac1c2104969)
+![image](https://github.com/user-attachments/assets/122fd91e-cdb2-4aec-99dd-8675c9d1bfec)
+
 
 Un petit aperçu de la partie data viz 👀 
 ![image](https://github.com/user-attachments/assets/2699b6c8-0ad3-423e-a4e9-b05142f39faf)
